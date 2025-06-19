@@ -195,7 +195,7 @@ RTL Issues: Inspect CSS for Persian (fa) and ensure dir="rtl" is applied.
 Contact
 For issues or contributions, contact Abebe Bihonegn:
 
-Email: [your-email@example.com]
+Email: bihonegnabebe9@gmail.com
 LinkedIn: https://www.linkedin.com/in/abebe-bihonegn
 Telegram: https://t.me/bihonegn2112
 
