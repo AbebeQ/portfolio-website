@@ -203,6 +203,8 @@ License
 © 2025 Abebe Bihonegn. All Rights Reserved.
 Portfolio Screenshots
 Homepage:
-Login Page:
-General Screenshot:```
 ![image alt](https://github.com/AbebeQ/portfolio-website/blob/18321437e622b21bc3be91aacaac925577336e12/Screenshot%20from%202025-06-19%2016-38-04.png)
+Login Page:
+![image alt](https://github.com/AbebeQ/portfolio-website/blob/26c042d3c153862fe5fd81822001ea69ba3e641d/Screenshot%20from%202025-06-19%2016-41-11.png)
+General Screenshot:```
+
